@@ -4,7 +4,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/drewthe1/test-repository.git"
+    "url": "https://github.com/NikrOKvillon/TP_Laba6.git"
     },
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -44,7 +44,10 @@
   },
   "devDependencies": {
     "@semantic-release/changelog": "6.0.3",
-    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
-    "eslint": "^8.50.0"
+    "@semantic-release/commit-analyzer": "^11.0.0",
+    "@semantic-release/github": "^9.2.1",
+    "@semantic-release/release-notes-generator": "^12.0.0",
+    "eslint": "^8.50.0",
+    "semantic-release": "^22.0.5"
   }
 }
